@@ -12,7 +12,7 @@ source:
     - which-2.21-path_max.patch   # resolve long pathname failures
     
 build:
-  number: 1
+  number: 2
   skip: True  # [win]
 
 requirements:
